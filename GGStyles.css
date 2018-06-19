@@ -86,12 +86,14 @@ p{
     text-align: left;
     font-family: AR CENA, sans-serif;
     font-size: 2.75em;
+    padding-left: 4em;
+    padding-right: 4em;
 }
 
 /*Text Margin class*/
 
 p.sub{
-    margin-left: 1.5em;
+    margin-left: 5.5em;
     
 }
 
