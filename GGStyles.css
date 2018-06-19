@@ -111,8 +111,9 @@ p.resource{
 
 p.linked{
     font-size: .75em;
-    text-align: center;
-    color: rgb(167,8,1);
+    text-align: left;
+    padding-left: 15em;
+    padding-right: 15em;
 }
 
 /* Aside Styles */
