@@ -34,7 +34,9 @@ h1{
 
 h2{
     margin:0px;
-    font-family: Chalkduster, Chalkdust;
+    font-family: Chalkduster;
+    font-family: Chalkdust;
+    src: url(' GuitarsGalore.github.io/ChalkDust.ttf')  format('truetype');
     font-size: 4em;
     padding-top: .5em;
     color: white;
