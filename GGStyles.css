@@ -92,19 +92,19 @@ p{
     text-align: left;
     font-family: AR CENA, sans-serif;
     font-size: 2em;
-    padding: 4em;
+    padding-left: 4em;
 }
 
 /*Text Margin class*/
 
 p.sub{
-    margin-left: 1.5em;
+    margin-left: 5.5em;
     
 }
 
 p.resource{
     font-size: .75em;
-    margin-left: 10em;
+    margin-left: 14em;
 }
 
 /* Aside Styles */
