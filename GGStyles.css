@@ -39,6 +39,8 @@ h2{
     padding-top: .5em;
     color: white;
     text-align: left;
+    padding-left: 3em;
+    padding-right: 3em;
 }
 
 h3{
@@ -46,7 +48,7 @@ h3{
     font-size: 3em;
     font-family: AR CENA, bold;
     color: white;
-    padding: 0px;
+    padding: 3em;
 }
 
 /* Nav Styles */
