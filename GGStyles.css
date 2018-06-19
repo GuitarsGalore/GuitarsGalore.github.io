@@ -48,7 +48,8 @@ h3{
     font-size: 3em;
     font-family: AR CENA, bold;
     color: white;
-    padding: 3em;
+    padding-left: 3em;
+    padding-right: 3em;
 }
 
 /* Nav Styles */
@@ -85,11 +86,12 @@ a:hover,a:active{
 
 p{
     color: white;
-    text-align: left;
+    text-align: justified;
     font-family: AR CENA, sans-serif;
     font-size: 2.75em;
     padding-left: 3em;
     padding-right: 3em;
+     
 }
 
 /*Text Margin class*/
