@@ -106,7 +106,13 @@ p.sub{
 p.resource{
     font-size: .75em;
     margin-left: 10em;
+}
 
+p.linked{
+    font-size: .75em;
+    margin-left: 10em;
+    text-align: center;
+}
 
 /* Aside Styles */
 
