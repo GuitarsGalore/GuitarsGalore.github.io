@@ -105,15 +105,12 @@ p.sub{
 
 p.resource{
     font-size: .75em;
-    margin-left: 10em;
     text-align: center;
 }
 
 p.linked{
     font-size: .75em;
-    text-align: left;
-    padding-left: 15em;
-    padding-right: 15em;
+    text-align: center;
 }
 
 /* Aside Styles */
