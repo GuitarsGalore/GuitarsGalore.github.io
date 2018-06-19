@@ -12,6 +12,37 @@ header {
     min-width: 50px;
     max-width: 8000px;
 }
+/* Nav Styles */
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+    display: block;
+}
+
+ul li {
+    padding: 20px;
+    text-align: center;
+    display: inline;
+    color: white;
+    
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-size: 4em;
+    font-family: Chalkduster;
+    font-family: Chalkdust;
+    src: url('GuitarsGalore.github.io/ChalkDust.ttf')  format('truetype');
+}
+
+    a:hover,a:active{
+    color:grey;
+}
 
 /*Body Styles*/
 body {
@@ -25,7 +56,9 @@ body {
  
 /*Headings Styles*/
 h1{
-    font-family: Chalkduster, Chalkdust;
+    font-family: Chalkduster;
+    font-family: Chalkdust;
+    src: url('GuitarsGalore.github.io/ChalkDust.ttf')  format('truetype');
     font-size: 5em;
     color: white;
     text-align: center;
@@ -33,7 +66,7 @@ h1{
 }
 
 h2{
-    margin:0px;
+    margin: 0px;
     font-family: Chalkduster;
     font-family: Chalkdust;
     src: url('GuitarsGalore.github.io/ChalkDust.ttf')  format('truetype');
@@ -51,35 +84,6 @@ h3{
     padding: 0px;
 }
 
-/* Nav Styles */
-
-ul {
-    list-style-type: none;
-    margin: 0px;
-    padding: 10px;
-    text-align: center;
-    display: block;
-}
-
-ul li {
-	padding: 20px;
-    text-align: center;
-    display: inline;
-	color: white;
-    
-}
-
-a{
-	text-decoration: none;
-    text-align: center;
-	color: white;
-    font-size: 5em;
-    font-family: Chalkduster, Chalkdust;
-}
-
-a:hover,a:active{
-    color:grey;
-}
 
 /*Paragraph Styles*/
 
@@ -87,7 +91,8 @@ p{
     color: white;
     text-align: left;
     font-family: AR CENA, sans-serif;
-    font-size:2em;
+    font-size: 2em;
+    padding: 4em;
 }
 
 /*Text Margin class*/
